@@ -10,7 +10,6 @@
 - 📝 I share my thoughts about tech on showwcase [https://www.showwcase.com/vidhisharma](https://www.showwcase.com/vidhisharma)
 
 - 📫 How to reach with me ! **vidhisharmaqwerty@gmail.com**
-![photo](https://github.com/vidhisharma001/vidhisharma001/assets/71186753/16f40311-e7dc-4763-8f8f-e2be73e19120)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

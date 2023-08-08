@@ -1,7 +1,9 @@
 <h1 align="center">Hello World 👋I'm VIDHI SHARMA😊</h1>
 <h3 align="center">A Enthusiastic Web Dev.|MERN STACK❤️|DSA📌|Tech Writer@Showwcase|Freelancer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhisharma001&label=Profile%20views&color=0e75b6&style=flat" alt="vidhisharma001" /> </p>
+
+<p align="left"> <img src![Uploading girl.gif…]()
+="https://komarev.com/ghpvc/?username=vidhisharma001&label=Profile%20views&color=0e75b6&style=flat" alt="vidhisharma001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/i_vidhisharma" target="blank"><img src="https://img.shields.io/twitter/follow/i_vidhisharma?logo=twitter&style=for-the-badge" alt="i_vidhisharma" /></a> </p>
 

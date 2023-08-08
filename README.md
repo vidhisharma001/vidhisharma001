@@ -1,13 +1,13 @@
 <h1 align="center">Hello World! 👋I'm VIDHI SHARMA</h1>
-<h3 align="center">An Enthusiastic Web Dev. |MERN STACK |DSA📌|Tech Writer@Showwcase|Freelancer</h3>
+<h3 align="center">An Enthusiastic Web Dev. | MERN STACK | DSA📌|Tech Writer@Showwcase| Freelancer</h3>
 
 ![github gif](https://github.com/vidhisharma001/vidhisharma001/assets/71186753/c2675ca2-d04b-4e3d-b231-6c18399aec0f)
 
 <p align="left"> <a href="https://twitter.com/i_vidhisharma" target="blank"><img src="https://img.shields.io/twitter/follow/i_vidhisharma?logo=twitter&style=for-the-badge" alt="i_vidhisharma" /></a> </p>
 
-- ✔️Let's Connect on twitter [https://twitter.com/i_vidhisharma](https://twitter.com/i_vidhisharma)
+- ✔️Let's Connect on twitter:- [https://twitter.com/i_vidhisharma](https://twitter.com/i_vidhisharma)
 
-- 📝 I share me thoughts about tech on showwcase [https://www.showwcase.com/vidhisharma](https://www.showwcase.com/vidhisharma)
+- 📝 I share my thoughts about tech on showwcase [https://www.showwcase.com/vidhisharma](https://www.showwcase.com/vidhisharma)
 
 - 📫 How to reach with me ! **vidhisharmaqwerty@gmail.com**
 

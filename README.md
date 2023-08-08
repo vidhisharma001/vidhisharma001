@@ -1,5 +1,5 @@
-<h1 align="center">Hello World 👋I'm VIDHI SHARMA😊</h1>
-<h3 align="center">A Enthusiastic Web Dev.|MERN STACK❤️|DSA📌|Tech Writer@Showwcase|Freelancer</h3>
+<h1 align="center">Hello World! 👋I'm VIDHI SHARMA</h1>
+<h3 align="center">A Enthusiastic Web Dev. |MERN STACK |DSA📌|Tech Writer@Showwcase|Freelancer</h3>
 
 ![github gif](https://github.com/vidhisharma001/vidhisharma001/assets/71186753/c2675ca2-d04b-4e3d-b231-6c18399aec0f)
 

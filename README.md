@@ -9,7 +9,7 @@
 
 - 📝 I share me thoughts about tech on showwcase [https://www.showwcase.com/vidhisharma](https://www.showwcase.com/vidhisharma)
 
-- 📫 How to reach with me at my mail! **vidhisharmaqwerty@gmail.com**
+- 📫 How to reach with me ! **vidhisharmaqwerty@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

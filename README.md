@@ -5,7 +5,7 @@
 <img src="https://github.com/vidhisharma001/vidhisharma001/assets/71186753/c2675ca2-d04b-4e3d-b231-6c18399aec0f" width="480px" height="350"/>
 
 
-- 👩‍💻Currently Pursuing MCA(Master of Computer Applications)& will passout in 2024!🎓
+- 👩‍💻Currently Pursuing MCA & will passout in 2024! 🎓
 - 📝 I share my thoughts about tech on showwcase [https://www.showwcase.com/vidhisharma](https://www.showwcase.com/vidhisharma)
 
 - 📫 How to reach me ! **vidhisharmaqwerty@gmail.com**

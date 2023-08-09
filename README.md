@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/i_vidhisharma" target="blank"><img src="https://img.shields.io/twitter/follow/i_vidhisharma?logo=twitter&style=for-the-badge" alt="i_vidhisharma" /></a> </p>
 
-- ✔️Let's Connect on twitter:- [https://twitter.com/i_vidhisharma](https://twitter.com/i_vidhisharma)
 
 - 📝 I share my thoughts about tech on showwcase [https://www.showwcase.com/vidhisharma](https://www.showwcase.com/vidhisharma)
 

@@ -4,7 +4,6 @@
 
 <img src="https://github.com/vidhisharma001/vidhisharma001/assets/71186753/c2675ca2-d04b-4e3d-b231-6c18399aec0f" width="480px" height="350"/>
 
-<p align="left"> <a href="https://twitter.com/i_vidhisharma" target="blank"><img src="https://img.shields.io/twitter/follow/i_vidhisharma?logo=twitter&style=for-the-badge" alt="i_vidhisharma" /></a> </p>
 
 
 - 📝 I share my thoughts about tech on showwcase [https://www.showwcase.com/vidhisharma](https://www.showwcase.com/vidhisharma)
